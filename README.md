@@ -11,6 +11,7 @@
 
 
 
+> ----------------------
 
 - [Chapter 1 - نظم دعم القرار والنظم الذكية_الأسس والتطبيقات.pptx](https://github.com/user-attachments/files/28213416/Chapter.1.-._.pptx)
   
