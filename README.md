@@ -13,13 +13,22 @@
 
 > ----------------------
 
+
 - [Chapter 1 - نظم دعم القرار والنظم الذكية_الأسس والتطبيقات.pptx](https://github.com/user-attachments/files/28213416/Chapter.1.-._.pptx)
   
 - [Chapter 1 - نظم دعم القرار والنظم الذكية_الأسس والتطبيقات.pdf](https://github.com/user-attachments/files/28213415/Chapter.1.-._.pdf)
   
+
+> ----------------------
+
+
 - [Chapter 2 -الإدارة وصنع القرار ونظم المعلومات الإدارية.pptx](https://github.com/user-attachments/files/28213425/Chapter.2.-.pptx)
   
 - [Chapter 2 -الإدارة وصنع القرار ونظم المعلومات الإدارية.pdf](https://github.com/user-attachments/files/28213422/Chapter.2.-.pdf)
+
+
+> ----------------------
+
 
 - [Chapter 3 -أنواع نظم دعم القرار والأنظمة الذكية.pptx](https://github.com/user-attachments/files/28213486/Chapter.3.-.pptx)
   
