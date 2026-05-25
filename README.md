@@ -33,15 +33,37 @@
 - [Chapter 3 -أنواع نظم دعم القرار والأنظمة الذكية.pptx](https://github.com/user-attachments/files/28213486/Chapter.3.-.pptx)
   
 - [Chapter 3 -أنواع نظم دعم القرار والأنظمة الذكية.pdf](https://github.com/user-attachments/files/28213483/Chapter.3.-.pdf)
+
+  
+
+> ----------------------
+
+
   
 - [Chapter 4 -أساسيات ومكونات نظم دعم القرار.pptx](https://github.com/user-attachments/files/28213506/Chapter.4.-.pptx)
   
 - [Chapter 4 -أساسيات ومكونات نظم دعم القرار.pdf](https://github.com/user-attachments/files/28213504/Chapter.4.-.pdf)
+
   
+
+> ----------------------
+
+
 - [Chapter 5 - دليل تطوير نظم دعم القرار وتصميمها الذكي.pptx](https://github.com/user-attachments/files/28213362/Chapter.5.-.pptx)
   
 - [Chapter 5 - دليل تطوير نظم دعم القرار وتصميمها الذكي.pdf](https://github.com/user-attachments/files/28213356/Chapter.5.-.pdf)
+
   
+
+> ----------------------
+
+
 - [Chapter 6 -نظم دعم القرار ونظم دعم القرار المتقدمة.pptx](https://github.com/user-attachments/files/28213398/Chapter.6.-.pptx)
   
 - [Chapter 6 -نظم دعم القرار ونظم دعم القرار المتقدمة.pdf](https://github.com/user-attachments/files/28213397/Chapter.6.-.pdf)
+
+
+
+> ----------------------
+
+
