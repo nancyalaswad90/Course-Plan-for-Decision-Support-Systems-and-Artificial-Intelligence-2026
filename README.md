@@ -1,6 +1,6 @@
 .
 
-> # This Repository about my Course Plan for Decision Support Systems and Artificial Intelligence 2026
+> # This Repository about my Course Plan for [Decision Support Systems and Artificial Intelligence 2026](https://www.youtube.com/shorts/gSmezfpsE1k)
 
 
 > # .هذا المستودع مخصص بالكامل لخطة الدورة التدريبية الخاصة بأنظمة دعم القرار والذكاء الاصطناعي لعام 2026
