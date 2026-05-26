@@ -10,6 +10,7 @@
 - [First Lecture -خطة المساق - د محمد الزعبي.pdf](https://github.com/user-attachments/files/28209728/-.pdf)
 
 
+تم عمل فيديو
 
 > ----------------------
 
